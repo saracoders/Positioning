@@ -1,0 +1,17 @@
+/* Inserta tu CSS aqui */
+.caja {
+	width: 200px;
+	height: 200px;
+	position: relative;
+}
+
+.rojo {
+	background: red;
+}
+.azul {
+	background: blue;
+	margin-left: 200px; 
+}
+.verde {
+	background: green;
+}
